@@ -1,5 +1,3 @@
 # Demonstration video
-<video controls width="500">
-  <source src="video\Demo_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+- download and watch video in video file in this repository
+- path video/demo_video.mp4
